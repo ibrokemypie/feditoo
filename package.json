@@ -16,7 +16,7 @@
     "@types/react-native": "^0.60.27",
     "@types/react-test-renderer": "^16.9.1",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "typescript": "^3.7.4"
   },
   "devDependencies": {
